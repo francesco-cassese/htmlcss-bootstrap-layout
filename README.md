@@ -22,8 +22,7 @@ Testare le conoscenze su:
 ```text
 htmlcss-bootstrap-grid/
 ├── index.html          # Pagina principale con implementazione Grid System
-├── README.md           # Documentazione
-└── .gitignore          # File per l'esclusione di file non necessari
+└── README.md           # Documentazione
 ```
 
 > *Esercizio Boolean - Corso Full Stack Web Developer*
