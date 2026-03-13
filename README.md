@@ -25,4 +25,4 @@ htmlcss-bootstrap-grid/
 └── README.md           # Documentazione
 ```
 
-> *Esercizio Boolean - Corso Full Stack Web Developer*
+*Esercizio Boolean - Corso Full Stack Web Developer*
